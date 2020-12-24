@@ -5,3 +5,6 @@
 * numpy 1.18.2
 * matplotlib 3.3.3
 * scikit-learn 0.23.2
+# dataset
+sklearn内置的Iris数据集，选取了其中的两类鸢尾花和两种属性。
+# 
